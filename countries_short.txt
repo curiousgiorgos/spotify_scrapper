@@ -1,0 +1,5 @@
+Global, global
+Australia , au
+Austria , at
+Belarus , by
+Belgium , be
